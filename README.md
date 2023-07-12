@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I AM BERKAY<br>I'm a 4th grade digital game student.<br>🌱 I’m currently learning C#<br>💬 Ask me about<br>⚡ Fun fact
+HI, I AM BERKAY<br>I'm a 4th grade digital game student.<br>🌱 I’m currently learning C#<br>💬 Ask me about<br>⚡ Star Wars Addict
 
 
 ## 🌐 Socials:
